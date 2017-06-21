@@ -7,7 +7,6 @@ Different versions of quicksort algorithm was implemented. Initial version is a 
 There are three types of inputs which are in ascending order, descending order. The third type is generated in such a way that the pivot divides both sides of the input array equally. Necessary lines for generating different types of inputs are in the code so you can comment out or uncomment to use the type you want. 
 
 ## How to Use It?
-* Clone the repo.
+* Import the repo.
 * Change the type and the size of the input.
 * Run and see the results!
-ß
